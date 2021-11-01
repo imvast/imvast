@@ -2,16 +2,13 @@
 
 
 <h1 align="center">ImVast</h1>
-<p align="center">Intermediate Developer, I know: Python, CSharp, & Javascript</p>
-<a href="https://github.com/Gowixx">
+<a href="https://github.com/imvast">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=imvast" alt="Profile Views">
   </p>
 </a>
 
----
-
-<h3 align="center">Current Known Languages: (best - least)</h3>
+<h4 align="center">Current Known Languages: (best - least)</h4>
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
