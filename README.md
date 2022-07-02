@@ -9,8 +9,8 @@
 
 ---
 <p align="center">
-  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=imvast&countColorcountColor&countColor=%237B1E7B" alt="Profile Views"/>
-  <img alt="followers" src="https://img.shields.io/github/followers/imvast?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=imvast&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
+  <img alt="followers" src="https://img.shields.io/github/followers/imvast?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
 </p>
 <h3 align="center">Current Known Languages: (best - least)</h3>
 <p align="center">
