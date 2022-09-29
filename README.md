@@ -3,7 +3,9 @@
 <h1 align="center">ImVast</h1>
 <a href="https://github.com/imvast"></a>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60797067/181168985-c88eacf3-15c0-483b-85d1-ee84b674aba5.gif" />
+  <a href="https://vast.gay"> 
+    <img src="https://user-images.githubusercontent.com/60797067/181168985-c88eacf3-15c0-483b-85d1-ee84b674aba5.gif" />
+  </a> 
 </p>
 
 ---
