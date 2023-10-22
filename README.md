@@ -8,12 +8,9 @@
   <img height="25" src="https://img.shields.io/github/followers/imvast?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   <img height="25" src="https://img.shields.io/github/stars/imvast?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
-<h3 align="center">Current Known Languages: (best ➜ least)</h5>
+<h4 align="center">Current Known Languages: (best ➜ least)</h5>
 <p align="center">
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="25" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+           <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs,"/>
 </p>
 
 <br>
