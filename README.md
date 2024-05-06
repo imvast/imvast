@@ -8,10 +8,12 @@
   <img height="25" src="https://img.shields.io/github/followers/imvast?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   <img height="25" src="https://img.shields.io/github/stars/imvast?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
-<h4 align="center">Current Known Languages: (best ➜ least)</h5>
+<br>
 <p align="center">
-           <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs,"/>
+    <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs"/>
 </p>
+
+https://t.me/skiddos
 
 <br>
 
